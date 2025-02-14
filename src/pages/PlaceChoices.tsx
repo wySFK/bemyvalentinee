@@ -77,7 +77,7 @@ const PlaceChoices = () => {
             onChange={(e) => setComment(e.target.value)}
             className="w-full p-3 rounded-lg border border-black focus:ring-2 focus:ring-black focus:border-transparent"
             rows={4}
-            placeholder="Tell me where unsa imong places gusto adtoan lolove."
+            placeholder="Tell me where kung unsa imong places gusto adtoan lolove."
           />
         </div>
 
