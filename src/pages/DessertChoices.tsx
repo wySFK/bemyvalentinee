@@ -75,7 +75,7 @@ const DessertChoices = () => {
             onChange={(e) => setComment(e.target.value)}
             className="w-full p-3 rounded-lg border border-black focus:ring-2 focus:ring-black focus:border-transparent"
             rows={4}
-            placeholder="Tell me what other desserts you'd like..."
+            placeholder="Tell me what other desserts imong gusto lovey"
           />
         </div>
 
