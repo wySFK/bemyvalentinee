@@ -69,7 +69,7 @@ const ThankYou = () => {
           onClick={() => navigate('/food-choices')}
           className="button-primary mt-8"
         >
-          Choose Our Date
+          Click Me
         </motion.button>
       </motion.div>
     </div>
